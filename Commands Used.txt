@@ -1,4 +1,18 @@
 mkdir ApertureTech
 cd ApertureTech
 git init
-vi index.html <Added text for Master Branch>
+vi index.html <Added in master Branch>
+
+git add .
+git commit -m "Added new files"
+
+git Branch Aperture_V2.0
+get checkout Aperture_V2.0
+
+vi index.html <Added in master Branch-Appended in Branch>
+
+git status
+git add .
+git commit -m "Appended in branch"
+
+git checkout master
