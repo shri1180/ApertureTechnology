@@ -1,0 +1,4 @@
+mkdir ApertureTech
+cd ApertureTech
+git init
+vi index.html <Added text for Master Branch>

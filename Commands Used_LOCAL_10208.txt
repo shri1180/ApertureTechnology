@@ -7,7 +7,6 @@ git add .
 git commit -m "Added new files"
 
 git Branch Aperture_V2.0
-<<<<<<< HEAD
 get checkout Aperture_V2.0
 
 vi index.html <Added in master Branch-Appended in Branch>
@@ -17,6 +16,3 @@ git add .
 git commit -m "Appended in branch"
 
 git checkout master
-=======
-get checkout APerture_V2.0
->>>>>>> Aperture_V2.0
